@@ -9,6 +9,11 @@ header{
     height: 100%;
 }
 
+.header-banner{
+    color: #fff;
+    background-color: #cccc;
+}
+
 #paineis-sobre{
     margin-top: 2rem;
 }
